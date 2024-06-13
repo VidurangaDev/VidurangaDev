@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi there! I'm Amayuru Viduranga, a Computer Programming enthusiast and a student at the University of Ruhuna. I have a strong passion for coding in various languages including Java, C, JavaScript, PHP, and React.js. I also enjoy working on web technologies like HTML and CSS. I love collaborating on group projects and building innovative solutions. Let's connect and create something amazing together!<br><br>
+# 💫 Hi there!
+👋 I'm Amayuru Viduranga, a Computer Programming enthusiast and a student at the University of Ruhuna. I have a strong passion for coding in various languages including Java, C, JavaScript, PHP, and React.js. I also enjoy working on web technologies like HTML and CSS. I love collaborating on group projects and building innovative solutions. Let's connect and create something amazing together!<br><br>
 
 
 ## 🌐 Socials:
@@ -12,17 +12,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VidurangaDev&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VidurangaDev&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VidurangaDev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=VidurangaDev&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=VidurangaDev&icon=0&color=0)](https://visitcount.itsvg.in)
